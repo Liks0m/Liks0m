@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Liks0m
-- 👀 I’m interested in Linux, SYS admin, networking and Computers.
-- 🌱 I’m currently learning Linux and Mircosoft entra ID/azure.
+- 👀 I’m interested in Linux, DevOps, Networking and Computers.
+- 🌱 I’m currently learning Linux/Unix
 - 💞️ I’m looking to collaborate on linux-projects
 - 📫 How to reach me https://www.linkedin.com/in/ludvig-bjune-hopen-b9550a312/ or liks0m on discord
 - 😄 Pronouns: He/Him
