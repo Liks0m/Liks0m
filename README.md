@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Liks0m
 - 👀 I do alot of differnet stuff whatever i find interesting
-- 🌱 I’m currently learning Linux and docker
+- 🌱 I’m currently learning to manage life
 - 💞️ I’m looking to collaborate on Linux-projects
 - 📫 How to reach me liks0m on discord
 - 😄 Pronouns: He/Him
